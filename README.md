@@ -4,7 +4,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -44,4 +43,4 @@ I still need to train a little bit more in the Media Queries
 
 - Linkedin - [Silas Fas](https://www.linkedin.com/in/silas-ferreira-arlindo-dos-santos-79791088/)
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Silas Fas](https://www.frontendmentor.io/profile/SilasFas)

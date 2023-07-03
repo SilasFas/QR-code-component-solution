@@ -37,7 +37,7 @@ I still need to train a little bit more in the Media Queries
 
 ### Useful resources
 
-- [w3schools](https://www.w3schools.com/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [w3schools](https://www.w3schools.com/)
 
 ## Author
 
